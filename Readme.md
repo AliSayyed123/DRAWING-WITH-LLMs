@@ -1,4 +1,4 @@
-# Efficient Superpixel to SVG Conversion for LLM Fine-Tuning
+# Superpixel to SVG Conversion for LLM Fine-Tuning
 
 This repository contains a Jupyter Notebook designed to process and convert images to SVG format using superpixel simplification. The primary goal of this notebook is to facilitate the creation of a dataset for fine-tuning LLM models with image data, focusing on efficient processing and optimization techniques.
 
